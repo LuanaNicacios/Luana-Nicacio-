@@ -1,4 +1,4 @@
-# [Luana Nicácio] <img src="https://preview.redd.it/7dichon9vtn71.gif?width=250&auto=webp&v=enabled&s=05f36e175d4fb07b24a2fb0f592a21a3c781b20b"  width="70px">
+# [Luana Nicácio] <img src="https://cdna.artstation.com/p/assets/images/images/044/978/318/original/gabriel-brandao-alves-neon.gif?1641627884"  width="60px">
 
  <strong>Olá sou Luana</strong>, <strong>Formada em Análise e Desenvolvimento de Sistemas e estudande de FULL-STACK</strong> 👨🏻‍💻 
 
