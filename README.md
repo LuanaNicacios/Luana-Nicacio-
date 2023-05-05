@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Seu nome] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FVALORANT%2Fcomments%2Fy51tl7%2Fwe_are_valorant_we_are_fighters%2F&psig=AOvVaw2zbYu-xXhLDapSEDIGwBvp&ust=1683393047309000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCID9jvrV3v4CFQAAAAAdAAAAABAD">
 
 Eu sou <strong>LUANA NICÁCIO</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
