@@ -1,10 +1,10 @@
-# [Seu nome] <img src="https://preview.redd.it/we-are-valorant-we-are-fighters-v0-rsnnqfjx02u91.gif?width=4410&auto=webp&v=enabled&s=4e24ebd50927b632dff2e541e4c36c7f60e1c266"  width="200px">
+# [Luana Nicácio] <img src="https://preview.redd.it/7dichon9vtn71.gif?width=250&auto=webp&v=enabled&s=05f36e175d4fb07b24a2fb0f592a21a3c781b20b"  width="70px">
 
-Eu sou <strong>LUANA NICÁCIO</strong>, <strong>Formada em Análise e Desenvolvimento de Sistemas e estudande de FULL-STACK</strong> 👨🏻‍💻 
+ <strong>Olá sou Luana</strong>, <strong>Formada em Análise e Desenvolvimento de Sistemas e estudande de FULL-STACK</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>FULL-STACK STUDENT</br></strong> 
-- 💬 Pergunte-me sobre: <strong><br> Games 👾 <br> Jiu-jitsu 🤼‍♀️</br></strong>
-- 📣 Nós podemos falar em: <strong><br>Ingês: Fluente <br> Francês: Intermediario </br></strong>
+- 🚀 Atualmente estou aprendendo: <strong>FULL-STACK STUDENT <br>● FUNDAMENTO DA COMPUTAÇÃO: ✔ <br>● LÓGICA DE PROGRAMAÇÃO: ✔ <br>● JAVASCRIPT e NOTE.js: <br>● HTML / CSS:  <br>● METODOS HTTP e API's: <br>● GIT e GITHUB:  <br>● BANCO DE DADOS:  <br>● PROJETO INTEGRADOR:</br></strong> 
+- 💬 Pergunte-me sobre: <strong><br>● GAMES 👾 <br>● JIU-JITSU 🤼‍♀️</br></strong>
+- 📣 Nós podemos falar em: <strong><br>● INGLÊS: Fluentemente <br>● FRANCÊS: Intermediario </br></strong>
 
 <div align="center">
 
