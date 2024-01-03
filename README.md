@@ -1,10 +1,6 @@
-# [Luana Nicácio] <img src="https://cdna.artstation.com/p/assets/images/images/044/978/318/original/gabriel-brandao-alves-neon.gif?1641627884"  width="60px">
+# Olá Sou Luana Nicácio!
+Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">, atualmente voluntariando para a <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">.
 
- <strong>Olá sou Luana</strong>, <strong>Formada em Análise e Desenvolvimento de Sistemas e estudande de FULL-STACK</strong> 👨🏻‍💻 
-
-- 🚀 Atualmente estou aprendendo: <strong>FULL-STACK STUDENT <br>● FUNDAMENTO DA COMPUTAÇÃO: ✔ <br>● LÓGICA DE PROGRAMAÇÃO: ✔ <br>● JAVASCRIPT e NOTE.js: <br>● HTML / CSS:  <br>● METODOS HTTP e API's: <br>● GIT e GITHUB:  <br>● BANCO DE DADOS:  <br>● PROJETO INTEGRADOR:</br></strong> 
-- 💬 Pergunte-me sobre: <strong><br>● GAMES 👾 <br>● JIU-JITSU 🤼‍♀️</br></strong>
-- 📣 Nós podemos falar em: <strong><br>● INGLÊS: Fluentemente <br>● FRANCÊS: Intermediario </br></strong>
 
 <div align="center">
 
