@@ -24,6 +24,7 @@ A viverde casa é uma Startup Pernambucana....
 </div>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/luana-nic%C3%A1cio-0214421aa" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+ <a href="https://www.linkedin.com/in/luana-nic%C3%A1cio-0214421aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanav13.lv@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
