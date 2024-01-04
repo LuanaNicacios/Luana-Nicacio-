@@ -5,7 +5,13 @@ Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/
 
 <img alt="Rafa-HTML" height="100" width="100" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
 
-A café & Tech é uma 
+A café & Tech é uma...
+
+## Viverde Casa 
+
+<img alt="Viverde-Casa" height="100" width="100" src="https://blackrocks.com.br/BlackOut/wp-content/uploads/2023/02/00013_Viverde-Casa.png">
+
+A viverde casa é uma Startup Pernambucana....
 
 ### Tecnologias
 
