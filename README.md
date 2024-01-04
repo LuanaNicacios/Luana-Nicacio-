@@ -1,4 +1,4 @@
-# Olá Sou Luana Nicácio!
+# Olá, Sou Luana Nicácio!
 Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Cafe & Tech</a>, atualmete voluntariando na construção do site da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>.
 
 
