@@ -1,8 +1,8 @@
-# Olá, Sou Luana Nicácio!
+# Olá, Sou Luana Nicácio! 👋
 Formada em Análise e Desenvolvimento de Sistemas e também formada em Inglês. Faço parte do time de voluntarios Full-Stack da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmente voluntariando na construção da plataforma online da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>. 
 ***
 
-<img alt="Cafe-e-Tech" height="100" width="100" align="left" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
+<img alt="Cafe-e-Tech" height="90" width="90" align="left" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
 
 ## Café & Tech 
 <p>
@@ -10,7 +10,7 @@ Formada em Análise e Desenvolvimento de Sistemas e também formada em Inglês. 
   na área de tecnologia.
 <p/>
 
-<img alt="Viverde-Casa" height="100" width="100" align="right" src="https://blackrocks.com.br/BlackOut/wp-content/uploads/2023/02/00013_Viverde-Casa.png">
+<img alt="Viverde-Casa" height="90" width="90" align="right" src="https://blackrocks.com.br/BlackOut/wp-content/uploads/2023/02/00013_Viverde-Casa.png">
 
 
 <h2 align="right"> Viverde Casa</h2>
