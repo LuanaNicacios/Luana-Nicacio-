@@ -1,5 +1,5 @@
 # Olá, Sou Luana Nicácio! 👋
-Formada em Análise e Desenvolvimento de Sistema e também em Inglês. Faço parte do time de voluntarios Full-Stack da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmente voluntariando na construção da plataforma online da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>. 
+Formada em Análise e Desenvolvimento de Sistema e também em Inglês. Faço parte do time de voluntarias Full-Stack da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmente voluntarianda na construção da plataforma online da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>. 
 ***
 
 <img alt="Cafe-e-Tech" height="90" width="90" align="left" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
