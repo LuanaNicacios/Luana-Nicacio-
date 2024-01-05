@@ -15,7 +15,7 @@ Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/
 
 <h2 align="right"> Viverde Casa</h2>
 <p align="right">
- A viverde casa é uma Startup Pernambucana....
+   Viverde Casa é uma Startup Pernambucana de negócios de contrução que conecta profissionais a clientes e fornecedores através de     uma plataforma online, facilitando o processo de qualificação e contratação de mão de obra. 
 <p/>
 
 <br>
