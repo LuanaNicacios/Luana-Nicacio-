@@ -12,7 +12,6 @@ Formada em Análise e Desenvolvimento de Sistemas e também formada em Inglês. 
 
 <img alt="Viverde-Casa" height="90" width="90" align="right" src="https://blackrocks.com.br/BlackOut/wp-content/uploads/2023/02/00013_Viverde-Casa.png">
 
-
 <h2 align="right"> Viverde Casa</h2>
 <p align="left">
   Viverde Casa é uma Startup de negócios de contrução que conecta profissionais a clientes e fornecedores através de uma plataforma 
