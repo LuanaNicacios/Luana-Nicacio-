@@ -1,5 +1,5 @@
 # Olá, Sou Luana Nicácio!
-Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmete voluntariando na construção do site da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>.
+Formada em Análise e Desenvolvimento de Sistemas e Inglês. Faço parte do time de voluntarios Full-Stack da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmente voluntariando na construção da plataforma online da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>. 
 ***
 
 <img alt="Cafe-e-Tech" height="100" width="100" align="left" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
@@ -14,8 +14,9 @@ Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/
 
 
 <h2 align="right"> Viverde Casa</h2>
-<p align="right">
-   Viverde Casa é uma Startup Pernambucana de negócios de contrução que conecta profissionais a clientes e fornecedores através de     uma plataforma online, facilitando o processo de qualificação e contratação de mão de obra. 
+<p align="left">
+  Viverde Casa é uma Startup de negócios de contrução que conecta profissionais a clientes e fornecedores através de uma plataforma 
+  online, facilitando o processo de qualificação e contratação de mão de obra. 
 <p/>
 
 <br>
