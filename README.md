@@ -18,13 +18,10 @@ Formada em Análise e Desenvolvimento de Sistemas e também formada em Inglês. 
   Viverde Casa é uma Startup de negócios de contrução que conecta profissionais a clientes e fornecedores através de uma plataforma 
   online, facilitando o processo de qualificação e contratação de mão de obra. 
 <p/>
-
-<br>
-<br>
-<br>
  
-#### Skills
-<div style="display: inline_block"><br>
+<div align="center">
+  
+  <h3>Skills<h3/>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,8 +29,6 @@ Formada em Análise e Desenvolvimento de Sistemas e também formada em Inglês. 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
-<br>
 <br>
 
 <div align="center">
