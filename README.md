@@ -1,12 +1,13 @@
 # Olá, Sou Luana Nicácio!
-Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>, atualmete voluntariando na construção do site da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>.
+Faço parte do time Full-Stack voluntario da <a href="https://www.instagram.com/acafetech/" alt="@acafetech">Café & Tech</a>. Atualmete voluntariando na construção do site da startup <a href="https://www.instagram.com/viverdecasa/" alt="@viverdecasa">Viverde Casa</a>.
 ***
 
 <img alt="Cafe-e-Tech" height="100" width="100" align="left" src="https://media.licdn.com/dms/image/D4D0BAQG0JPJ520t-Tg/company-logo_200_200/0/1688175553951/cafe_e_tech_logo?e=2147483647&v=beta&t=b37-YjGsjFgo6Sdd6wcf5umsX5A1snUouW3FVKHzc6E"/> 
 
 ## Café & Tech 
 <p>
-  A café & Tech é uma...
+  Café & Tech é uma comunidade de orientação profissional e mentoria coletiva, para mulheres que estão em trasiçaõ de carreira 
+  na área de tecnologia.
 <p/>
 
 <img alt="Viverde-Casa" height="100" width="100" align="right" src="https://blackrocks.com.br/BlackOut/wp-content/uploads/2023/02/00013_Viverde-Casa.png">
